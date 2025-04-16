@@ -45,7 +45,7 @@ Simulates a coffee shop queue system using a **Circular Queue**:
 C++ code that takes an infix expression and converts it into its prefix form using stack operations.
 
 ### ✅ Task 4 – Expression Evaluation
-Evaluates a given infix expression by first converting it to postfix or prefix, then calculating its result.
+Evaluates the given Postfix expression
 
 ---
 
